@@ -2,11 +2,11 @@
 
 下面是成语接龙机器人的游戏模式流程。
 
-![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/%E6%A8%A1%E5%BC%8F%E5%88%87%E6%8D%A2.png)
+![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/logic1.png)
 
 下面是成语接龙机器人的接龙判定逻辑。
 
-![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/%E6%8E%A5%E9%BE%99.png)
+![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/logic2.png)
 
 ## 2.数据结构
 
