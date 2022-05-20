@@ -4,7 +4,7 @@
 
 加入频道后，可以在频道的闲聊大厅内和机器人（demoTestRobot）进行成语接龙互动。
 
-![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/IMG_6192E37FAEF4-1.jpeg)
+![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/QRcode.jpeg)
 
 ## 2.使用/操作
 
@@ -16,13 +16,12 @@
 
 - 结束游戏：需要@机器人后，回复”**退出**“或者直接回复“**单人模式**” / “**多人模式**“重开
 
-  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/IMG_9756.jpg)
+  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/dan.jpg)
   
-  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/IMG_965FC9714B98-1.jpg)
+  ![image](hhttps://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/duo1.jpg)
   
-  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/%E5%8D%95%E4%BA%BA%E6%A8%A1%E5%BC%8F1.png)
+  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/duo2.jpg)
   
-  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/doc/%E5%A4%9A%E4%BA%BA%E6%88%98%E7%BB%A9%E7%BB%9F%E8%AE%A1.jpg)
 
 ## 3.游戏规则
 
