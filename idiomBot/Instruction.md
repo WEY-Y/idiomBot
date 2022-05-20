@@ -18,7 +18,7 @@
 
   ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/dan.jpg)
   
-  ![image](hhttps://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/duo1.jpg)
+  ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/duo1.jpg 400x300)
   
   ![image](https://github.com/WEY-Y/idiomBot/blob/main/idiomBot/pic/duo2.jpg)
   
